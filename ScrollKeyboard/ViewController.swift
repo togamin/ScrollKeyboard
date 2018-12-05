@@ -5,7 +5,7 @@
 //  Created by Togami Yuki on 2018/11/17.
 //  Copyright © 2018 Togami Yuki. All rights reserved.
 //
-//キーボードが表示された時に、スクロールViewのサイズを大きくする。
+
 
 import UIKit
 
